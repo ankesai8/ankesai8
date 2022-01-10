@@ -2,7 +2,7 @@
 - 👀 I’m interested in webdesign
 - 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on *
-- 📫 email me at:ankesai8@gmail.com
+- 📫 email me at : ankesai8@gmail.com
 
 
 <!---
