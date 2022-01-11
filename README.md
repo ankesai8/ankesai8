@@ -2,7 +2,7 @@
 - 👀 I’m interested in webdesign
 - 🌱 I’m currently learning MERN
 - 📫 email me at : ankesai8@gmail.com
-- 📫 Visit my [Portfolio](https://ankesai-portfolio.netlify.app/) 
+- 📫 You can check out my Portfolio [Here](https://ankesai-portfolio.netlify.app/) 
 
 <!---
 ankesai8/ankesai8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
