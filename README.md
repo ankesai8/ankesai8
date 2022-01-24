@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ankesai8 from [Anantapur](https://en.wikipedia.org/wiki/Anantapur)
-- 👀 I’m interested in webdesign
-- 🌱 I’m currently learning MERN Stack Developement.
+- 👋 Hi, I’m @[ankesai8]( from [Anantapur](https://en.wikipedia.org/wiki/Anantapur)
+- 👀 Interested in webdesign
+- 🌱 Currently learning MERN Stack Developement.
 - 👯 I’m looking job as web developer.
 - 🤔 I’m looking for help to make a team.
 - 💬 Ask me about anything.
