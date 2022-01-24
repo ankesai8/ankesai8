@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @ankesai8
 - 👀 I’m interested in webdesign
 - 🌱 I’m currently learning MERN
-- 📫 email me at : ankesai8@gmail.com
-- 📫 You can check out my Portfolio [Here](https://sai-prasad-anke.netlify.app/) 
+- 🤤 email me at : ankesai8@gmail.com
+- 📫 [You can check out my  Portfolio Here](https://sai-prasad-anke.netlify.app/) 
+- 🤤 [You can check out my  Resume Here](https://drive.google.com/file/d/1c1A9Lquw3uMdDu1rIIBisCZLED9kletN/view) 
 
 <!---
 ankesai8/ankesai8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
