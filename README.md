@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ ankesai8 from [Anantapur](https://en.wikipedia.org/wiki/Anantapur) ✨
+- 👋  Hey! Nice to see you -> I’m @ ankesai8 from [Anantapur](https://en.wikipedia.org/wiki/Anantapur) ✨ Hey! Nice to see you.
 - 🌱 Currently learning MERN Stack Developement. ✨
 - 👯 Looking job as web developer. ✨
 - 💬 Ask me about anything. ✨
