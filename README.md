@@ -1,5 +1,5 @@
 - 👋  Hey! Nice to see you -> 
-- 🤤  I’m @ [ankesai8](https://github.com/ankesai8/ankesai8/) from [Anantapur](https://en.wikipedia.org/wiki/Anantapur) ✨
+- 🤤  I’m @ [ankesai8](https://github.com/ankesai8/) from [Anantapur](https://en.wikipedia.org/wiki/Anantapur) ✨
 - 🌱 Currently learning MERN Stack Developement. ✨
 - 👯 Looking job as web developer. ✨
 - 💬 Ask me about anything. ✨
