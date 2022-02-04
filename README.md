@@ -25,6 +25,8 @@ Here are some ideas to get you started:
   <h4 align="left">💡 I share my learning progress and projects on GitHub ✨</h4>
   <h4 align="left">💰 Looking for my first job as a Web Developer ✨</h4>
 </div>
+ 
+##
   
 ##  View my Portfolio Website 👉 [💻](https://anke-8-sai.netlify.app/)
   
