@@ -18,15 +18,12 @@ Here are some ideas to get you started:
   <img align="left" width="420" src="https://media.giphy.com/media/MPxg9U887PS0B8XT4J/giphy.gif" />
 <div align="right" >
   <h4 align="left">💻 I’m a Full-Stack Web Developer with a focus on Frontend </h4>
-  <h4 align="left">🌱 I started learning to code in September '20 </h4>
-  <h4 align="left">💡  I share my learning progress and projects on Twitter to inspire others</h4>
-  <h4 align="left">📝 I write tech articles on my blog</h4>
-  <h4 align="left">⚡ Completed an internship at a FinTech startup in Berlin</h4>
-  <h4 align="left">💰 Looking for my first job as a Junior Web Developer</h4>
+  <h4 align="left">🌱 I started learning to code in September '2021 </h4>
+  <h4 align="left">💡  I share my learning progress and projects on [GitHub](https://github.com/ankesai8/) </h4>
+  <h4 align="left">💰 Looking for my first job as a Web Developer</h4>
 </div>
   
-##  View my Portfolio Website 👉 [💻](https://andreaegli.tech/)
-##  Read my Tech Blog 👉 [📝](https://aegli.hashnode.dev/)
+##  View my Portfolio Website 👉 [💻](https://anke-8-sai.netlify.app/)
 
 ## Languages and Tools:
 <br/>
@@ -49,11 +46,11 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-<a href="https://github.com/aegli84">
-  <img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=aegli84&count_private=true&show_icons=true&theme=onedark&hide=stars" alt="Andreea's GitHub stats" />
+<a href="https://github.com/ankesai8">
+  <img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=aegli84&count_private=true&show_icons=true&theme=onedark&hide=stars" alt="ankesai8's GitHub stats" />
 </a>
  
-<a href="https://github.com/aegli84">
+<a href="https://github.com/ankesai8">
   <img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aegli84&layout=compact&theme=react" alt="Top languages" />
 </a>
 <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
@@ -61,10 +58,10 @@ Here are some ideas to get you started:
 
 ## 📫 How to reach me: 
 <div align="center">
-  <a href="https://www.linkedin.com/in/andreeaegli">
+  <a href="https://www.linkedin.com/in/anke-saiprasad-b5594a22a/">
     <img alt="linkedin" title="LinkedIn" width="65px" src="https://user-images.githubusercontent.com/64198045/143304055-362fe9e0-c016-4e1f-8cd3-1488ccafaa48.gif"/>
   </a>
-  <a href="https://twitter.com/AndreeaEgli">
+  <a href="https://twitter.com/saiprasad_264">
    <img alt="twitter" title="Twitter" width="65px" src="https://user-images.githubusercontent.com/64198045/143304072-86665c35-b343-46fe-984c-93aec4b8e323.gif" />
   </a>
 </div>
