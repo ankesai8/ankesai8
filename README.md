@@ -17,10 +17,13 @@ Here are some ideas to get you started:
 <div align="center">
   <img align="left" width="420" src="https://media.giphy.com/media/MPxg9U887PS0B8XT4J/giphy.gif" />
 <div align="right" >
-  <h4 align="left">💻 I’m a Full-Stack Web Developer with a focus on Frontend </h4>
-  <h4 align="left">🌱 I started learning to code in September '2021 </h4>
-  <h4 align="left">💡  I share my learning progress and projects on GitHub </h4>
-  <h4 align="left">💰 Looking for my first job as a Web Developer</h4>
+  <h1 align="left">👋 Hey! Nice to see you ✨</h1>
+  <h4 align="left">🌱 Currently learning MERN Stack Developement. ✨</h4>
+  <h4 align="left">💻 I’m a Full-Stack Web Developer with a focus on Frontend ✨ </h4>
+  <h4 align="left">🤤 Email me at : ankesai8@gmail.com ✨ </h4>
+  <h4 align="left">⚡ Fun fact: I don't hava job 😅 </h4>
+  <h4 align="left">💡 I share my learning progress and projects on GitHub ✨</h4>
+  <h4 align="left">💰 Looking for my first job as a Web Developer ✨</h4>
 </div>
   
 ##  View my Portfolio Website 👉 [💻](https://anke-8-sai.netlify.app/)
@@ -53,6 +56,10 @@ Here are some ideas to get you started:
   <a href="https://twitter.com/saiprasad_264">
    <img alt="twitter" title="Twitter" width="65px" src="https://user-images.githubusercontent.com/64198045/143304072-86665c35-b343-46fe-984c-93aec4b8e323.gif" />
   </a>
+  <a href="mailto:ankesai8@gmail.com">
+   <img alt="mail" title="Mail" width="65px" src="https://c.tenor.com/DM_1ESTpyF8AAAAC/gmail.gif" />
+  </a>
+
 </div>
 
 </div>
