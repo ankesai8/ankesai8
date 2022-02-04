@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 </div>
   
 ##  View my Portfolio Website 👉 [💻](https://anke-8-sai.netlify.app/)
+  
+##  View my Resume  👉 [📝](##  View my Portfolio Website 👉 [💻](https://anke-8-sai.netlify.app/))
 
 ## Languages and Tools:
 <br/>
