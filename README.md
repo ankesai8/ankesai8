@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ <h1 align="left">👋 Hey! Nice to see you ✨</h1>
 <div align="center">
   <img align="left" width="350" src="https://media.giphy.com/media/MPxg9U887PS0B8XT4J/giphy.gif" />
 <div align="right" >
-  <h1 align="left">👋 Hey! Nice to see you ✨</h1>
   <h4 align="left">🌱 Currently learning MERN Stack Developement. ✨</h4>
   <h4 align="left">💻 I’m a Full-Stack Web Developer with a focus on Frontend ✨ </h4>
   <h4 align="left">🤤 Email me at : ankesai8@gmail.com ✨ </h4>
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   
 ##  View my Portfolio Website 👉 [💻](https://anke-8-sai.netlify.app/)
   
-##  View my Resume  👉 [📝](##  View my Portfolio Website 👉 [💻](https://anke-8-sai.netlify.app/))
+##  View my Resume  👉 [📝](https://drive.google.com/file/d/1gF_oBIZjDfPl1lFaymNDn6jnZkqd1-Zg/view)
 
 ## Languages and Tools:
 <br/>
