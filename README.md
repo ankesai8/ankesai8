@@ -55,7 +55,7 @@ Here are some ideas to get you started:
   </a>
   <a href="https://twitter.com/saiprasad_264">
    <img alt="twitter" title="Twitter" width="65px" src="https://user-images.githubusercontent.com/64198045/143304072-86665c35-b343-46fe-984c-93aec4b8e323.gif" />
-  </a>
+  </a> 
   <a href="mailto:ankesai8@gmail.com">
    <img alt="mail" title="Mail" width="65px" src="https://c.tenor.com/DM_1ESTpyF8AAAAC/gmail.gif" />
   </a>
