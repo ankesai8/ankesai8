@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
  <h1 align="left">👋 Hey! Nice to see you ✨</h1>
 <div align="center">
-  <img align="left" width="350" src="https://media.giphy.com/media/MPxg9U887PS0B8XT4J/giphy.gif" />
+  <img align="left" width="250" src="https://media.giphy.com/media/MPxg9U887PS0B8XT4J/giphy.gif" />
 <div align="right" >
   <h4 align="left">🌱 Currently learning MERN Stack Developement. ✨</h4>
   <h4 align="left">💻 I’m a Full-Stack Web Developer with a focus on Frontend ✨ </h4>
