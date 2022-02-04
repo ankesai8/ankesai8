@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-
+  <img align="left" width="350" src="https://media.giphy.com/media/MPxg9U887PS0B8XT4J/giphy.gif" />
 <div align="right" >
   <h1 align="left">👋 Hey! Nice to see you ✨</h1>
   <h4 align="left">🌱 Currently learning MERN Stack Developement. ✨</h4>
