@@ -46,10 +46,8 @@ Here are some ideas to get you started:
   <img alt="Nodejs" title="Nodejs" width="45px" src="https://img.icons8.com/color/54087/nodejs.png" />
   <img alt="mongodb" title="MongoDB" width="45px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 
-    
-<br/>
-<br/>
-<br/>
+  <br/>
+
 
 ##
  
