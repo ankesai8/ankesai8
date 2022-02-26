@@ -54,13 +54,13 @@ Here are some ideas to get you started:
 ## 📫 How to reach me: 
 <div align="center">
   <a href="https://www.linkedin.com/in/anke-saiprasad-b5594a22a/">
-    <img alt="linkedin" title="LinkedIn" width="65px" src="https://user-images.githubusercontent.com/64198045/143304055-362fe9e0-c016-4e1f-8cd3-1488ccafaa48.gif"/>
+    <img alt="linkedin" title="LinkedIn" width="65px" target="blank" src="https://user-images.githubusercontent.com/64198045/143304055-362fe9e0-c016-4e1f-8cd3-1488ccafaa48.gif"/>
   </a>
   <a href="https://twitter.com/saiprasad_264">
-   <img alt="twitter" title="Twitter" width="65px" src="https://user-images.githubusercontent.com/64198045/143304072-86665c35-b343-46fe-984c-93aec4b8e323.gif" />
+   <img alt="twitter" title="Twitter" width="65px" target="blank" src="https://user-images.githubusercontent.com/64198045/143304072-86665c35-b343-46fe-984c-93aec4b8e323.gif" />
   </a> 
   <a href="mailto:ankesai8@gmail.com">
-   <img alt="mail" title="Mail" width="65px" src="https://c.tenor.com/DM_1ESTpyF8AAAAC/gmail.gif" />
+   <img alt="mail" title="Mail" width="65px" target="blank"  src="https://c.tenor.com/DM_1ESTpyF8AAAAC/gmail.gif" />
   </a>
 
 </div>
