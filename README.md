@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   
 ##  View my Portfolio Website 👉 [💻](https://anke-saiprasad-portfolio-8.netlify.app/)
   
-##  View my Resume  👉 [📝](https://drive.google.com/file/d/11fLD8TDRVbc8BgHc5u4O4jgBV50pJhYR/view)
+##  View my Resume  👉 [📝](https://drive.google.com/file/d/1mE_Gb4110lRG9HfQlBPQqND2h7y-hAWf/view)
 
 ## Languages and Tools:
 <br/>
