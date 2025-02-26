@@ -19,11 +19,11 @@ Here are some ideas to get you started:
   <img align="left" width="225" src="https://media.giphy.com/media/MPxg9U887PS0B8XT4J/giphy.gif" />
 <div align="right" >
   <h4 align="left">💻 I’m a Full-Stack Web Developer with a focus on Frontend ✨ </h4>
-  <h4 align="left">🌱 Currently learning MERN Stack Developement. ✨</h4>
+  <h4 align="left">🌱 MERN Stack Developement. ✨</h4>
   <h4 align="left">🤤 Email me at : ankesai8@gmail.com ✨ </h4>
-  <h4 align="left">⚡ Fun fact: I don't hava job 😅 </h4>
+  <h4 align="left">⚡ Fun fact: I am Debugger 😅 </h4>
   <h4 align="left">💡 I share my learning progress and projects on GitHub ✨</h4>
-  <h4 align="left">💰 Looking for my first job as a Web Developer ✨</h4>
+<!--   <h4 align="left">💰 Looking for my first job as a Web Developer ✨</h4> -->
 </div>
  
 ##
